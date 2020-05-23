@@ -73,4 +73,6 @@ many years of experience and are claiming many years of software engineering exp
      Some Important links related to caching
      - [ ] [Caching Basics](https://en.wikipedia.org/wiki/Cache_(computing))
      - [ ] [Locality of reference](https://en.wikipedia.org/wiki/Locality_of_reference)
-     - [ ] [Cache Basics (video)](https://www.youtube.com/watch?v=chnhnxWIjgw&list=PLbtzT1TYeoMgJ4NcWFuXpnF24fsiaOdGq)
+     - [ ] [Cache Internals (video)](https://www.youtube.com/watch?v=chnhnxWIjgw&list=PLbtzT1TYeoMgJ4NcWFuXpnF24fsiaOdGq)
+     - [ ] [Cache Writes(slide)](https://www.slideshare.net/marangburu42/write-miss)
+     - [ ] [Cache coherence](https://en.wikipedia.org/wiki/Cache_coherence)
